@@ -1,5 +1,5 @@
 # How_To_Connect_Friends_In_Minecraft_Bedrock_edition与好友一同游玩《我的世界:基岩版》
-===================================================
+=====
 该帮助文档由Stonty创作
 
 
