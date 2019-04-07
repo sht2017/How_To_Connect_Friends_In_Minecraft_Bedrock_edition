@@ -51,7 +51,7 @@
 [点击登录](https://login.live.com/login.srf?mkt=zh-CN)
 
 #### 添加Xbox好友
-注意:安卓用户需打开#浏览器#的#桌面模式#(访问电脑版网站)
+注意:安卓用户需打开**浏览器**的**桌面模式**(访问电脑版网站)
 
 [好友](https://account.xbox.com/zh-cn/Friends)-好友和俱乐部-在文本输入框输入好友的Xbox ID并搜索
 
