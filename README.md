@@ -35,7 +35,7 @@
 ### 安装游戏&启动器
 *此方式为破解/绕过验证*
 
-下载 [游戏本体]()(Minecraft Bedrock Edition) 与 [启动器]()(BlockLauncher)
+下载 [游戏本体](https://github.com/sht2017/How_To_Connect_Friends_In_Minecraft_Bedrock_edition/releases/tag/Game)(Minecraft Bedrock Edition) 与 [启动器](https://github.com/sht2017/How_To_Connect_Friends_In_Minecraft_Bedrock_edition/releases/tag/BlockLauncher)(BlockLauncher)
 
 安装完毕后打开启动器(BlockLauncher)即可启动游戏
 
